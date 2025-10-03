@@ -6,14 +6,14 @@ A project dedicated to automating railway safety inspections using deep learning
 
 ---
 
-## ## Features
+## Features
 
 * **Track Fault Classifier:** A CNN model trained to classify images of railway tracks as either **defective** or **non-defective**.
 * **Wheel Defect Detector:** A YOLOv8 object detection model trained to identify and locate specific defects on train wheels.
 
 ---
 
-## ## Tech Stack
+## Tech Stack
 
 * Python
 * TensorFlow & Keras
@@ -23,16 +23,16 @@ A project dedicated to automating railway safety inspections using deep learning
 
 ---
 
-## ## Getting Started
+## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### ### Prerequisites
+### Prerequisites
 
 * Python 3.8+
 * Git
 
-### ### Installation
+### Installation
 
 1.  **Clone the repository:**
     ```bash
@@ -60,13 +60,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ---
 
-## ## Usage
+## Usage
 
 *(Detailed instructions on how to run the training scripts and use the models for inference will be added here later.)*
 
 ---
 
-## ## Datasets
+## Datasets
 
 This project utilizes the following datasets from Kaggle:
 
@@ -77,6 +77,6 @@ Please download the data and place it into the `datasets/processed/` directory a
 
 ---
 
-## ## License
+## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
