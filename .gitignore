@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+
+# Datasets - NEVER upload large data to GitHub
+datasets/
+
+# Trained models - these can also be large
+models/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE and OS specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
