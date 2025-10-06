@@ -36,7 +36,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)<YOUR_USERNAME>/train-inspector.git
+    git clone [https://github.com/](https://github.com/PI-Prasaad-Krishna/train-inspector.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
